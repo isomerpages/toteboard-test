@@ -3,7 +3,7 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: Who We Are
-    url: /page/
+    collection: collection
   - title: Collection
     collection: collection
   - title: Stories
