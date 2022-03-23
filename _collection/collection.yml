@@ -2,7 +2,7 @@ collections:
   collection:
     output: true
     order:
-      - What We Do.md
       - Who We Are.md
+      - What We Do.md
       - page/.keep
       - page/subpage.md
