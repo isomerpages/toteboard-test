@@ -2,6 +2,7 @@ collections:
   collection:
     output: true
     order:
+      - Senior Management.md
       - Board Members.md
       - Who We Are.md
       - What We Do.md
