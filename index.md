@@ -16,20 +16,25 @@ sections:
         - title: EFR (eric2)
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Grantmaking Journey
+          description: Illuminating Lives
+          url: https://www.toteboard.gov.sg/publication
+        - title: Igniting Change
+          description: About Tote Board
+          url: https://www.toteboard.gov.sg/who-we-are#What%20We%20Do
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Shining the Light of Hope
+      description: "Giving hope and impacting lives in many ways. "
+      button: View our stories
+      url: https://www.toteboard.gov.sg/our-impact
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
