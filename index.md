@@ -28,7 +28,7 @@ sections:
       button: View our stories
       url: https://www.toteboard.gov.sg/our-impact
   - resources:
-      title: Media
+      title: Resources
       subtitle: Learn more
       button: View More
   - infopic:
