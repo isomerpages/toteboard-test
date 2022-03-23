@@ -2,5 +2,6 @@ collections:
   collection:
     output: true
     order:
+      - Who We Are.md
       - page/.keep
       - page/subpage.md
