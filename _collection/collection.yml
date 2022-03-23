@@ -2,8 +2,8 @@ collections:
   collection:
     output: true
     order:
-      - Corporate Governance.md
       - Who We Are.md
       - What We Do.md
+      - Corporate Governance.md
       - page/.keep
       - page/subpage.md
