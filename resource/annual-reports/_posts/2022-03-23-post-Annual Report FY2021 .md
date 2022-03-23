@@ -6,3 +6,10 @@ layout: post
 description: Annual Reportttt
 image: /images/Thumbnail_for website.jpeg
 ---
+# Annual Report FY2020/21
+![](/images/Thumbnail_for%20website.jpeg)
+
+##### Download PDF: 
+##### Or  [View online ](https://www.toteboard.gov.sg/annualreports/2020/index)
+# Financial Statement ]
+##### Download PDF
