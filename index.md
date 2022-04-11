@@ -37,4 +37,16 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: Test Title
+      subtitle: Test subtitle
+      description: Test Description
+      button: Test Button
+      url: https://www.toteboard.gov.sg/
 ---
