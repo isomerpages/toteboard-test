@@ -7,7 +7,7 @@ permalink: /
 notification: Eric is trying out Isomer CMS
 sections:
   - hero:
-      title: Tote Board (eric1)
+      title: Tote Board (eric12)
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
