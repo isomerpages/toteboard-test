@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: EFR (eric2)
           description: Important highlight A is important
-          url: https://google.com
+          url: /erictest
         - title: Grantmaking Journey
           description: Illuminating Lives
           url: https://www.toteboard.gov.sg/publication
