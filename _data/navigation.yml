@@ -16,3 +16,5 @@ links:
     sublinks:
       - title: Submenu Title
         url: /permalink
+  - title: Test Page
+    url: /permalink
