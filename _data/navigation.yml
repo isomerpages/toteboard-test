@@ -18,3 +18,5 @@ links:
         url: /permalink
   - title: Test Page
     url: https://www.toteboard.gov.sg/annualreports/2020/index
+  - title: pdf file
+    url: /pdf-file
