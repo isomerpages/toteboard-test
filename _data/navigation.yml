@@ -1,17 +1,22 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: Collection
+  - title: Who We Are
     collection: collection
+  - title: Our Impact
+    url: /permalink
+    sublinks:
+      - title: Stories
+        url: /permalink
   - title: Resource
     resource_room: true
+  - title: Test menu by Eric
+    url: /erictest
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+  - title: Test Page
+    url: https://www.toteboard.gov.sg/annualreports/2020/index
+  - title: pdf file
+    url: /pdf-file

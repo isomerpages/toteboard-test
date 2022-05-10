@@ -4,33 +4,49 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Eric is trying out Isomer CMS
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: Tote Board (eric12)
+      subtitle: Hero subtitle
+      background: /images/hero-banner.png
+      button: Contact Us
+      url: /contact-us/
+      key_highlights:
+        - title: EFR (eric2)
+          description: Important highlight A is important
+          url: /erictest
+        - title: Grantmaking Journey
+          description: Illuminating Lives
+          url: https://www.toteboard.gov.sg/publication
+        - title: Igniting Change
+          description: About Tote Board
+          url: https://www.toteboard.gov.sg/who-we-are#What%20We%20Do
+  - infobar:
+      title: Shining the Light of Hope
+      description: "Giving hope and impacting lives in many ways. "
+      button: View our stories
+      url: https://www.toteboard.gov.sg/our-impact
+  - resources:
+      title: Resources
+      subtitle: Learn more
+      button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: Test Title
+      subtitle: Test subtitle
+      description: Test Description
+      button: Test Button
+      url: https://www.toteboard.gov.sg/
 ---
-
